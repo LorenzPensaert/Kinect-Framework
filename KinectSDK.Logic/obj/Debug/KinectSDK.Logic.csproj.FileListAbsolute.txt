@@ -1,0 +1,33 @@
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.csprojResolveAssemblyReference.cache
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.g.resources
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll.config
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.pdb
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.dll
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\Microsoft.Kinect.dll
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.pdb
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.xml
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\Microsoft.Kinect.xml
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.dll
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.pdb
+C:\Users\lorpo\Source\Workspaces\Kinect - Lorenz Pensaert\Dev\KinectSDK.Logic\bin\Debug\Microsoft.Speech.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll.config
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.pdb
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\Microsoft.Kinect.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\Microsoft.Speech.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.pdb
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.xml
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\Microsoft.Kinect.xml
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.g.resources
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.dll
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\obj\Debug\KinectSDK.Logic.pdb
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll.CodeAnalysisLog.xml
+C:\Users\lorpo\Documents\GitHub\KinectFramework\KinectSDK.Logic\bin\Debug\KinectSDK.Logic.dll.lastcodeanalysissucceeded
